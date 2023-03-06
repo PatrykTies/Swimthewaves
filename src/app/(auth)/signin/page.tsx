@@ -1,4 +1,4 @@
 const SignIn = () => {
-    return <div>signin</div>
+    return <div>jwt</div>
 }
 export default SignIn;
